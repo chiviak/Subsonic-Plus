@@ -1,2 +1,9 @@
 /subsonic-main/target/
 /subsonic-booter/target/
+/subsonic-backend/target/
+
+# IDE settings
+.idea/
+.idea/*
+*.iml
+.settings/*
