@@ -1,6 +1,8 @@
 /subsonic-main/target/
 /subsonic-booter/target/
 /subsonic-backend/target/
+/subsonic-rest-api/target/
+/subsonic-sonos-api/target/
 
 # IDE settings
 .idea/
